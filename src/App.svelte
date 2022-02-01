@@ -7,4 +7,4 @@
 
 <Tailwindcss />
 <input bind:value={url} placeholder="Type in a URL">
-<button on:click={() => location.href = url}></button>
+<button on:click={() => location.href = url}>Go</button>
