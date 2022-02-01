@@ -1,6 +1,4 @@
-# duckshow
-ducks and other random animals.
+# opennow
+simple opening URL program
 
-built with <3 using svelte.
-
-can be found at https://leodog896.github.io/duckshow/
+can be found at https://leodog896.github.io/opennow/
